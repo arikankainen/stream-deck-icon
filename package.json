@@ -1,0 +1,19 @@
+{
+    "name": "stream-deck-icon",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.ts",
+    "dependencies": {
+        "canvas": "^2.11.2",
+        "typescript": "^5.2.2"
+    },
+    "devDependencies": {
+        "@types/node": "^16.7.4"
+    },
+    "scripts": {
+        "start": "ts-node src/index.ts",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
